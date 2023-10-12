@@ -1,4 +1,4 @@
 .vscode
-user_service/.venv
-post_service/.venv
-comment_service/.venv
+.venv
+Dockerfile
+.dockerignore
